@@ -1,1 +1,1 @@
-This repository created for travel dashboard project
+This repository created for Travel Dashboard Project. 
